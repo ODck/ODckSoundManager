@@ -1,0 +1,4 @@
+{
+  "name": "ODckSoundManager",
+  "references" : ["Zenject", "Zenject-Editor", "UniRx"]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "SoundSettingsEditor",
+    "references": [
+        "GUID:57a719fd8f1d4a59bc3913ac9f36282b"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
